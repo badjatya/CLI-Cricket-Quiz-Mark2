@@ -4,7 +4,7 @@ It's a javascript based Nodejs project. It's a Quiz application which uses comma
 
 ## Screenshots
 
-![App Screenshot](https://github.com/badjatya/CLI-You-Know-Me-Quiz-Mark1/blob/master/img/Mark1.png)
+![App Screenshot](https://github.com/badjatya/CLI-Cricket-Quiz-Mark2/blob/main/img/Mark2.png)
 
 ## Tech Used
 
